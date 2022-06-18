@@ -1,0 +1,54 @@
+.comp-14 {
+  height: 511px;
+}
+
+.comp-14-top {
+  height: 429px;
+  background-color: #282828;
+}
+
+.comp-14-top-content {
+  width: 630px;
+  height: 261px;
+  margin-right: 22px;
+  margin-top: 123px;
+}
+.comp-14-noxia {
+  font-size: 55px;
+  margin-bottom: 32px;
+}
+
+.noxia-span {
+  font-size: 45px;
+  color: #ee3364;
+}
+
+.comp-14-paragraph {
+  font-size: 17px;
+  line-height: 27px;
+  color: #a5a5a5;
+  text-align: center;
+  margin-left: 18px;
+  letter-spacing: 0.1px;
+  margin-bottom: 48px;
+}
+
+.comp-14-icons {
+  color: #ee3364;
+  font-size: 20px;
+  width: 212px;
+  margin-left: 5px;
+}
+
+.comp-14-bottom {
+  height: 85px;
+  background-color: #171717;
+}
+
+.comp-14-bottom h1 {
+  font-size: 15px;
+  color: #a0a8b7;
+  margin-bottom: 11px;
+  margin-right: 14px;
+  letter-spacing: 0.2px;
+}

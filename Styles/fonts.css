@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("../Fonts/GlacialIndifference-Regular.woff2") format("woff2"),
+    url("../Fonts/GlacialIndifference-Regular.woff") format("woff"),
+    url("../Fonts/GlacialIndifference-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("../Fonts/GlacialIndifference-Italic.woff2") format("woff2"),
+    url("../Fonts/GlacialIndifference-Italic.woff") format("woff"),
+    url("../Fonts/GlacialIndifference-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("../Fonts/GlacialIndifference-Bold.woff2") format("woff2"),
+    url("../Fonts/GlacialIndifference-Bold.woff") format("woff"),
+    url("../Fonts/GlacialIndifference-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

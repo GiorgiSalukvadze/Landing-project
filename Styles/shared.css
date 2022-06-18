@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.al-cent {
+  align-items: center;
+}
+
+.just-center {
+  justify-content: center;
+}
+
+.comp-width {
+  max-width: 1923px;
+  width: 100%;
+}
+
+.muli-r {
+  font-family: "MuliRegular";
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.muli-b {
+  font-family: "MuliRegular";
+  font-weight: bold;
+}
+
+.cambay-r {
+  font-family: "Cambay", sans-serif;
+  font-weight: normal;
+}
+
+.cambay-b {
+  font-family: "Cambay", sans-serif;
+  font-weight: bold;
+}
+
+.glacial-r {
+  font-family: "Glacial Indifference";
+  font-weight: normal;
+  font-style: normal;
+}
+
+.glacial-b {
+  font-family: "Glacial Indifference";
+  font-weight: bold;
+  font-style: normal;
+}
+
+header {
+  position: relative;
+  height: 1025px;
+}
+
+.white {
+  color: white;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}

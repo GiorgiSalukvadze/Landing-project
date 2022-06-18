@@ -1,0 +1,64 @@
+.comp-2 {
+  height: 95px;
+  background-color: rgba(0, 0, 0, 0.43);
+}
+
+.list {
+  margin-left: 136px;
+}
+
+.comp-2-wrapper {
+  width: 1160px;
+}
+.comp-2-title {
+  font-size: 40px;
+}
+
+.comp-2-span {
+  color: #ee3364;
+}
+
+.comp-2 ul {
+  margin-bottom: 3px;
+  font-size: 18px;
+  width: 572px;
+}
+
+.comp-2 ul a {
+  text-decoration: none;
+  color: white;
+}
+
+.comp-2 ul a:hover {
+  color: #ee3364;
+}
+
+/* DID WITH nth-childs because with justify-content there was not a perfect match */
+
+.comp-2 li:nth-child(1) {
+  margin-right: 45px;
+}
+
+.comp-2 li:nth-child(2) {
+  margin-right: 42px;
+}
+
+.comp-2 li:nth-child(3) {
+  margin-right: 45px;
+}
+
+.comp-2 li:nth-child(4) {
+  margin-right: 42px;
+}
+
+.comp-2 li:nth-child(5) {
+  margin-right: 45px;
+}
+
+.comp-2-logo {
+  margin-right: 135px;
+}
+
+nav img:last-child {
+  margin-left: 13px;
+}

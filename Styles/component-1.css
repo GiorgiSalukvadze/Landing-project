@@ -1,0 +1,40 @@
+.comp-1 {
+  height: 48px;
+  background-color: rgba(0, 0, 0, 0.53);
+  /* opacity: 17%; */
+  border-bottom: 1px solid #5c5b5b;
+  align-items: center;
+  padding: 0 385px 0 375px;
+}
+
+.comp-1 h1 {
+  color: white;
+  opacity: 40%;
+  font-size: 16px;
+  margin-right: 79px;
+}
+
+.icons-mg {
+  margin-right: 15px;
+}
+
+.comp-1-icons {
+  color: white;
+  opacity: 40%;
+}
+
+.comp-1-icons:hover {
+  opacity: 100%;
+}
+
+.mail {
+  width: 18px;
+  height: 14px;
+  margin-right: 25px;
+}
+
+.phone {
+  width: 12.76px;
+  height: 12.76px;
+  margin-right: 19px;
+}

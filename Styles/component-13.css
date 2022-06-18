@@ -1,0 +1,91 @@
+.comp-13 {
+  height: 790px;
+}
+
+.comp-13-top {
+  margin: 137px 0px 130px 36px;
+}
+
+.author-circle {
+  width: 106px;
+  height: 106px;
+  background-color: black;
+  border-radius: 100%;
+}
+.quote-img {
+  height: 60px;
+}
+
+.comp-13-quote {
+  width: 406px;
+  margin-bottom: 19px;
+}
+
+.quote-title {
+  font-size: 26px;
+  color: #303030;
+  margin-bottom: 6px;
+}
+
+.quote-subtitle {
+  font-size: 14px;
+  color: #c4c4c4;
+  letter-spacing: 0.3px;
+  margin-bottom: 21px;
+}
+
+.comp-13-paragraph {
+  font-size: 17px;
+  font-style: italic;
+  color: #8d8d8d;
+  text-align: center;
+  line-height: 27px;
+  width: 786px;
+  letter-spacing: 0.3px;
+  margin-bottom: 23px;
+}
+
+.black-circle {
+  width: 9px;
+  height: 9px;
+  background-color: black;
+  border-radius: 100%;
+  margin-right: 8px;
+}
+
+.black-circle:nth-child(3) {
+  margin-right: 10px;
+}
+
+.comp-13-circles {
+  margin-left: 4px;
+}
+
+.grey-circle {
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  background-color: #e3e3e3;
+}
+
+.comp-13-bottom {
+  width: 1110px;
+  height: 89px;
+  margin-left: 30px;
+}
+
+.comp-13-bottom img:nth-child(1) {
+  margin-right: 140px;
+}
+
+.comp-13-bottom img:nth-child(2) {
+  margin-right: 132px;
+}
+
+.comp-13-bottom img:nth-child(3) {
+  margin-right: 112px;
+}
+
+.comp-13-bottom img:nth-child(4) {
+  margin-right: 110px;
+}
